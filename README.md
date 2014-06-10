@@ -39,9 +39,9 @@ if no accidents happen during a year, a new bear is spawned.
 ### Forest fires
 A forest fire happens during one single month, so during a forest fire an interation is just an iteration. 
 There are some factors which determine the spread of the fire: Chance of catching fire and duration of fire, theese differ between trees.
-Sapling: Has a 1/8 chance to catch fire and burns for 1 iteration
-Tree: Has 1/4 chance to catch fire and burns for 2 iterations
-Elder tree: Has 1/2 chance to catch fire and burns for 4 iterations
+- Sapling: Has a 1/8 chance to catch fire and burns for 1 iteration
+- Tree: Has 1/4 chance to catch fire and burns for 2 iterations
+- Elder tree: Has 1/2 chance to catch fire and burns for 4 iterations
 
 After the fire has burned the ground remains scorched for 5 years, and the forest can take over again. 
 
