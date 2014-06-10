@@ -13,6 +13,7 @@ How it works, (1 iteration = 1 month)
 .. * 2% of the grid will be populated by bears at the start of the simulation.
 
 * Trees
+
 There are three types of trees
 ..* Sapling, the miny tree. They turn into normal trees after 12 months.
 ..* Normal tree, just a tree, has a 10% chance to spawn a sapling at an adjacent cell.
@@ -55,3 +56,5 @@ L = Spawn 50 lumberjacks
 
 TODO
 ---------
+* The lumberjacks are currently taking over, this should probably be fixed
+* It seems like there are some stray dots of color, look into this
