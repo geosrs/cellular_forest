@@ -57,3 +57,7 @@ TODO
 ---------
 * The lumberjacks are currently taking over, this should probably be fixed
 * It seems like there are some stray dots of color, look into this
+
+Credit
+---------
+Credit goes to reddit user Coder_d00d for coming up with the idea as a challenge in r/dailyprogrammer
