@@ -48,10 +48,10 @@ After the fire has burned the ground remains scorched for 5 years, and the fores
 
 Fun keyboard commands
 ---------
-F = Starts a fire at random cell containing a tree
-K = Removes 50 lumberjacks from the simulation
-B = Spawns 100 new bears
-L = Spawn 50 lumberjacks
+- F = Starts a fire at random cell containing a tree
+- K = Removes 50 lumberjacks from the simulation
+- B = Spawns 100 new bears
+- L = Spawn 50 lumberjacks
 
 TODO
 ---------
