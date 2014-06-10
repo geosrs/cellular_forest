@@ -43,7 +43,7 @@ There are some factors which determine the spread of the fire: Chance of catchin
 - Tree: Has 1/4 chance to catch fire and burns for 2 iterations
 - Elder tree: Has 1/2 chance to catch fire and burns for 4 iterations
 
-After the fire has burned the ground remains scorched for 5 years, and the forest can take over again. 
+After the fire, the ground remains scorched for 5 years, and the forest can take over again. 
 
 
 Fun keyboard commands
