@@ -1,4 +1,4 @@
-#!/usr/bin/env 
+#!/usr/bin/env
 from pylab import *
 import random
 import os
@@ -329,12 +329,14 @@ def main(size):
 					print('Spawned fifty lumberjacks, you monster')
 					for i in range(50):
 						map = add_lumberjack(map, screen)
+				elif event.key == pygame.K_ESCAPE:
+					return
 				elif pygame.mouse.get_pressed()[0]:
 					print('lol')
 			elif event.type == pygame.MOUSEBUTTONDOWN:
 				x, y = event.pos
-				x = x/board_scale
-				y = y/board_scale
+				x = int(x/board_scale)
+				y = int(y/board_scale)
 				if map[y][x][0] and map[y][x][0] != 'A':
 					(map, time_map) = forest_fire(map, time_map, (y, x), screen)
 if __name__ == '__main__':
